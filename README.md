@@ -1,4 +1,6 @@
-<strong><center>NFT-Uploading-Bot</center></strong>
+<strong>
+        <h2 align="center">NFT-Uploading-Bot</h2>
+</strong>
 
 * This program created for uploading and listing NFTs on OpenSea.
 
